@@ -23,10 +23,6 @@ Columns:
 - published_year
 - ...
 
-## Setting up 
-host = localhost
-password : password 
-database = library_db
 
 # Contributing 
 If you have any thoughts about improving the project - I will be pleased to hear 
